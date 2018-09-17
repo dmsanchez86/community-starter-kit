@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Yhis is an App made with Probot and Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Soon...
 
 ## Getting started
 
